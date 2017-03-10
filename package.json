@@ -1,0 +1,14 @@
+{
+  "name": "is-directory-promise",
+  "version": "1.0.0",
+  "description": "Checks if a path is directory and returns promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David First <davidnet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-string": "^1.0.4"
+  }
+}
