@@ -4,15 +4,24 @@
   "description": "Checks if a path is directory and returns promise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha spec"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/davidfirst/is-directory-promise"
   },
+  "keywords": [
+    "is-dir",
+    "is-directory",
+    "promise"
+  ],
   "author": "David First <davidnet@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "is-string": "^1.0.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
   }
 }
