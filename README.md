@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/davidfirst/is-directory-promise.svg?branch=master)](https://travis-ci.org/davidfirst/is-directory-promise)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
-[![node](https://img.shields.io/node/v/gh-badges.svg)]()
+[![David](https://img.shields.io/david/strongloop/express.svg)]()
 
 Checks if a path is a directory and returns promise
 
